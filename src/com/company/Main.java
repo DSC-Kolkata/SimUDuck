@@ -13,15 +13,13 @@ public class Main {
         redheadDuck.quack();
         mallardDuck.swim();
 
-//        //TODO: 02-Make the Wooden Duck Quack
-//        WoodenDuck woodenDuck = new WoodenDuck();
-//        woodenDuck.quack();
+        WoodenDuck woodenDuck = new WoodenDuck();
+        woodenDuck.quack();
 
-//        //TODO: 04-See the Ducks Fly- The Fall of Inheritance
-//        mallardDuck.fly();
-//        redheadDuck.fly();
-//        woodenDuck.fly();
-//        rubberDuck.fly();
+        mallardDuck.fly();
+        redheadDuck.fly();
+        woodenDuck.fly();
+        rubberDuck.fly();
 
     }
 }
